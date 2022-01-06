@@ -7,7 +7,7 @@ export function CategoryCard() {
       <div className="container">
         <Link to="/CozaStore/Shop">
           <img
-            src="https://omarabualhija.github.io/CozaStore/images/banner-01.jpg"
+            src="https://omarabualhija.github.io/oldVersionCoza/images/banner-01.jpg"
             alt="banner-01"
           ></img>
           <div>
@@ -19,7 +19,7 @@ export function CategoryCard() {
 
         <Link to="/CozaStore/Shop">
           <img
-            src="https://omarabualhija.github.io/CozaStore/images/banner-02.jpg"
+            src="https://omarabualhija.github.io/oldVersionCoza/images/banner-02.jpg"
             alt="banner-02"
           ></img>
           <div>
@@ -31,7 +31,7 @@ export function CategoryCard() {
         </Link>
         <Link to="/CozaStore/Shop">
           <img
-            src="https://omarabualhija.github.io/CozaStore/images/banner-03.jpg"
+            src="https://omarabualhija.github.io/oldVersionCoza/images/banner-03.jpg"
             alt="banner-03"
           ></img>
           <div>

@@ -65,23 +65,23 @@ export const Footer = () => {
         <Copyright>
           <div>
             <img
-              src="https://omarabualhija.github.io/CozaStore/images/icons/icon-pay-01.png"
+              src="https://omarabualhija.github.io/oldVersionCoza/images/icons/icon-pay-01.png"
               alt="paypal"
             />
             <img
-              src="https://omarabualhija.github.io/CozaStore/images/icons/icon-pay-02.png"
+              src="https://omarabualhija.github.io/oldVersionCoza/images/icons/icon-pay-02.png"
               alt="Visa"
             />
             <img
-              src="https://omarabualhija.github.io/CozaStore/images/icons/icon-pay-03.png"
+              src="https://omarabualhija.github.io/oldVersionCoza/images/icons/icon-pay-03.png"
               alt="masterCard"
             />
             <img
-              src="https://omarabualhija.github.io/CozaStore/images/icons/icon-pay-04.png"
+              src="https://omarabualhija.github.io/oldVersionCoza/images/icons/icon-pay-04.png"
               alt="cashmone"
             />
             <img
-              src="https://omarabualhija.github.io/CozaStore/images/icons/icon-pay-05.png"
+              src="https://omarabualhija.github.io/oldVersionCoza/images/icons/icon-pay-05.png"
               alt="zaincash"
             />
           </div>

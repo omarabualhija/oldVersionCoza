@@ -24,12 +24,12 @@ export const NavBar = (props) => {
     <Header className={CheckScroll ? "background" : ""}>
       <div className="container">
         <Logo>
-          <Link to="/CozaStore">
+          <Link to="/oldVersionCoza">
             <img
               src={`${
                 themetoggle
-                  ? "https://omarabualhija.github.io/CozaStore/images/icons/logo-02.png"
-                  : "https://omarabualhija.github.io/CozaStore/images/icons/logo-01.png"
+                  ? "https://omarabualhija.github.io/oldVersionCoza/images/icons/logo-02.png"
+                  : "https://omarabualhija.github.io/oldVersionCoza/images/icons/logo-01.png"
               }`}
               alt="logo"
             />
@@ -42,19 +42,19 @@ export const NavBar = (props) => {
           </NavLink>
           <NavLink
             onClick={() => setToggleNav(!ToggleNav)}
-            to="/CozaStore/Shop"
+            to="/oldVersionCoza/Shop"
           >
             Shop
           </NavLink>
           <NavLink
             onClick={() => setToggleNav(!ToggleNav)}
-            to="/CozaStore/About"
+            to="/oldVersionCoza/About"
           >
             About
           </NavLink>
           <NavLink
             onClick={() => setToggleNav(!ToggleNav)}
-            to="/CozaStore/Contact"
+            to="/oldVersionCoza/Contact"
           >
             Contact
           </NavLink>
@@ -65,7 +65,7 @@ export const NavBar = (props) => {
             onClick={() => dispatchtheme(themeAction())}
             className={themetoggle ? `fas fa-sun` : `far fa-moon`}
           ></div>
-          <Link to="/CozaStore/CheckOut" className="fas fa-shopping-cart">
+          <Link to="/oldVersionCoza/CheckOut" className="fas fa-shopping-cart">
             {qnt}
           </Link>
           <div className="far fa-heart"></div>
