@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/oldVersionCoza/static/css/main.56ede650.chunk.css",
+    "main.js": "/oldVersionCoza/static/js/main.b8493683.chunk.js",
+    "main.js.map": "/oldVersionCoza/static/js/main.b8493683.chunk.js.map",
+    "runtime-main.js": "/oldVersionCoza/static/js/runtime-main.78e79b5d.js",
+    "runtime-main.js.map": "/oldVersionCoza/static/js/runtime-main.78e79b5d.js.map",
+    "static/css/2.a4070788.chunk.css": "/oldVersionCoza/static/css/2.a4070788.chunk.css",
+    "static/js/2.618e30d0.chunk.js": "/oldVersionCoza/static/js/2.618e30d0.chunk.js",
+    "static/js/2.618e30d0.chunk.js.map": "/oldVersionCoza/static/js/2.618e30d0.chunk.js.map",
+    "index.html": "/oldVersionCoza/index.html",
+    "static/css/2.a4070788.chunk.css.map": "/oldVersionCoza/static/css/2.a4070788.chunk.css.map",
+    "static/css/main.56ede650.chunk.css.map": "/oldVersionCoza/static/css/main.56ede650.chunk.css.map",
+    "static/js/2.618e30d0.chunk.js.LICENSE.txt": "/oldVersionCoza/static/js/2.618e30d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78e79b5d.js",
+    "static/css/2.a4070788.chunk.css",
+    "static/js/2.618e30d0.chunk.js",
+    "static/css/main.56ede650.chunk.css",
+    "static/js/main.b8493683.chunk.js"
+  ]
+}
