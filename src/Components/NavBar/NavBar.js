@@ -37,7 +37,10 @@ export const NavBar = (props) => {
         </Logo>
 
         <Bar className={!ToggleNav ? "toggle" : ""}>
-          <NavLink onClick={() => setToggleNav(!ToggleNav)} to="/CozaStore">
+          <NavLink
+            onClick={() => setToggleNav(!ToggleNav)}
+            to="/oldVersionCoza"
+          >
             Home
           </NavLink>
           <NavLink
